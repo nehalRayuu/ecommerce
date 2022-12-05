@@ -1,0 +1,10 @@
+.checkout{
+    display: flex;
+     justify-content: space-between;
+    padding: 20px;
+    background-color: antiquewhite;
+    height: max-content;
+}
+.checkout_info{
+
+}
